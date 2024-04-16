@@ -29,7 +29,9 @@ Acts as a lower reference point, essential for assessing the curvature and align
 The angle between the ear, shoulder, and hip is calculated using the calculate_angle function. This angle helps to assess the spinal alignment and the tilt of the head relative to the shoulders.
 ### Posture Evaluation:
 The angle is then used to determine posture quality:
-#### Good Posture: Defined as an angle greater than 160 degrees, suggesting a relatively straight back and proper head alignment.
-#### Bad Posture: An angle less than 160 degrees indicates potential slouching or improper head tilt, which can lead to strain or discomfort.
+#### Good Posture:
+Defined as an angle greater than 160 degrees, suggesting a relatively straight back and proper head alignment.
+#### Bad Posture:
+An angle less than 160 degrees indicates potential slouching or improper head tilt, which can lead to strain or discomfort.
 ### Annotation:
 The image is annotated with the calculated angle and the determined posture status, providing visual feedback on the posture analysis
